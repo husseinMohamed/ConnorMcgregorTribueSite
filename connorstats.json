@@ -1,0 +1,121 @@
+[{
+    "opponent" : "vs Mayweather", 
+    "event": "Showtime Boxing - Mayweather vs. McGregor",
+    "result": "LOSS",
+    "method": "Knockout",
+    "date": "2017-08-26",
+     "url" : "http://cagerank.com/HR5K.Ael0NA/Conor-McGregor-vs-Floyd-Mayweather"
+},{
+    "opponent" : "vs Alvarez", 
+    "event": "UFC 205",
+    "result": "WIN",
+    "method": "Knockout",
+    "date": "2016-11-12",
+    "url" : "http://cagerank.com/HR5K.G0ds/Conor-McGregor-vs-Eddie-Alvarez"
+},{
+    "opponent" : "vs Diaz", 
+    "event": "UFC 202",
+    "result": "WIN",
+    "method": "DECISION",
+    "date": "2016-08-20",
+    "url" : "http://cagerank.com/HR5K.G0gC/Conor-McGregor-vs-Nate-Diaz"
+},{
+    "opponent" : "vs Diaz", 
+    "event": "UFC 196",
+    "result": "LOSS",
+    "method": "Submission",
+    "date": "2016-03-05",
+    "url" : "http://cagerank.com/HR5K.G0gC/Conor-McGregor-vs-Nate-Diaz"
+},{
+    "opponent" : "vs Aldo", 
+    "event": "UFC 194",
+    "result": "WIN",
+    "method": "Knockout",
+    "date": "2015-12-12",
+    "url" : "http://cagerank.com/HR5K.G1RM/Conor-McGregor-vs-Jose-Aldo"
+},{
+    "opponent" : "vs Mendes", 
+    "event": "UFC 189",
+    "result": "WIN",
+    "method": "Knockout",
+    "date": "2015-07-11",
+    "url" : "http://cagerank.com/G0ar.HR5K/Chad-Mendes-vs-Conor-McGregor"
+},{
+    "opponent" : "vs Siver", 
+    "event": "UFC Fight Night 59",
+    "result": "WIN",
+    "method": "Knockout",
+    "date": "2015-01-18",
+    "url" : "http://cagerank.com/HR5K.G0aV/Conor-McGregor-vs-Dennis-Siver"
+},{
+    "opponent" : "vs Poirier", 
+    "event": "UFC 178",
+    "result": "WIN",
+    "method": "Knockout",
+    "date": "2014-09-27",
+    "url" : "http://cagerank.com/HR5K.G1W1/Conor-McGregor-vs-Dustin-Poirier"
+},{
+    "opponent" : "vs Brandao", 
+    "event": "UFC Fight Night 46",
+    "result": "WIN",
+    "method": "Knockout",
+    "date": "2014-07-19",
+    "url" : "http://cagerank.com/HR5K.G2Gi/Conor-McGregor-vs-Diego-Brandao"
+},{
+    "opponent" : "vs Holloway", 
+    "event": "UFC Fight Night 26",
+    "result": "WIN",
+    "method": "Decision",
+    "date": "2013-08-17",
+    "url" : "http://cagerank.com/HR5K.G3Nd/Conor-McGregor-vs-Max-Holloway"
+},{
+    "opponent" : "vs Brimage", 
+    "event": "UFC on Fuel TV 9",
+    "result": "WIN",
+    "method": "Knockout",
+    "date": "2013-04-06",
+    "url" : "http://cagerank.com/HR5K.G0cq/Conor-McGregor-vs-Marcus-Brimage"
+},{
+    "opponent" : "vs Buchinger", 
+    "event": "CWFC 51",
+    "result": "WIN",
+    "method": "Knockout",
+    "date": "2012-12-31",
+    "url" : "http://cagerank.com/HR5K.G-R1/Conor-McGregor-vs-Ivan-Buchinger"
+},{
+    "opponent" : "vs Hill", 
+    "event": "CWFC 47",
+    "result": "WIN",
+    "method": "Submission",
+    "date": "2012-06-02",
+    "url" : "http://cagerank.com/HR5K.HJ9W/Conor-McGregor-vs-Dave-Hill"
+},{
+    "opponent" : "vs O'Keefe", 
+    "event": "CWFC 45",
+    "result": "WIN",
+    "method": "Knockout",
+    "date": "2012-02-18",
+    "url" : "http://cagerank.com/HR5K.HOIL/Conor-McGregor-vs-Steve-O-Keefe"
+},{
+    "opponent" : "vs Jahnsen", 
+    "event": "CWFC - Fight Night 2",
+    "result": "WIN",
+    "method": "Knockout",
+    "date": "2011-09-08",
+    "url" : "http://cagerank.com/G_jB.HR5K/Aaron-Jahnsen-vs-Conor-McGregor"
+},{
+    "opponent" : "vs Sowinski", 
+    "event": "CG 2 - Clash of the Giants",
+    "result": "WIN",
+    "method": "Knockout",
+    "date": "2011-06-11",
+    "url" : "http://cagerank.com/HK8C.HR5K/Artur-Sowinski-vs-Conor-McGregor"
+},{
+    "opponent" : "vs Doherty", 
+    "event": "IFC - Immortal Fighting Championship 4",
+    "result": "WIN",
+    "method": "Knockout",
+    "date": "2011-04-16",
+    "url" : "http://cagerank.com/HR5K.HOO_/Conor-McGregor-vs-Paddy-Doherty"
+}
+]

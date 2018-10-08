@@ -1,0 +1,231 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,500);
+
+html{
+    scroll-behavior: smooth;
+    overflow-y:scroll;
+}
+
+header{
+    background: black;
+}
+
+.container{
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.row {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+#twitlink{
+    color:lightgray;
+}
+
+#twitlink:hover{
+    color: #1DA1F2;
+}
+
+.backgroundimg {
+    width:100%;
+    background-image: url("img/newcon6.png");
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 95vh;
+    background-position : center center;
+    background-repeat : no-repeat;
+}
+
+div.navbar-inner{
+    height: 5px;
+    padding: 0;
+ }
+
+img.brand{
+    padding:0;
+}
+
+.h1{
+    color: white;
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    font-size: 50px;
+    text-shadow: 0px 4px 6px black;
+}
+
+.h5{
+   color:white;
+ }
+
+
+.quote{
+    color: gray;
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    font-size: 20px;
+    animation: quoteAnimation 1.4s forwards 1.4s linear;
+   
+}
+
+.imgandText {
+    position: relative;
+}
+
+#blockOne{
+    width: 350px;
+    padding-top: 5px;
+    position: absolute;
+    bottom: 40px;
+    right: 25px;
+    background-color: black;
+  
+    padding-left: 10px;
+    padding-right: 20px;
+    border-radius:10px;
+}
+
+
+#blockTwo{
+    padding: 20px;
+    position: absolute;
+    margin-left: 10%;
+    margin-top: 20%;
+    background-color: black;
+    border-radius: 10px;
+}
+
+
+.backgroundimgTwo{
+    background-image: url(img/wallpaperPattern.png);
+    background-attachment: fixed;
+    height:200%;
+    width:100%;
+    opacity: .95;
+    background-size: cover;
+    border-top-color: black;
+    background-repeat: no-repeat;
+    padding: 20px 0 20px 0;
+}
+
+a{
+    box-shadow: 50px;
+}
+
+.backgroundimgTwo a:hover{
+  opacity: .75;
+}
+
+.videoContainer {
+    padding-bottom: 56.25%;
+    position: relative; 
+    background-attachment: fixed;
+ }
+   
+.videoContainer video{
+     width:100%;
+     height: 100%;
+     position: absolute;
+     background-attachment: fixed;
+}
+
+ .vid-wrapper{
+     max-width:100%;
+     max-height:100%;
+ }
+
+ .backgroundimgThree{
+    background-image: url(img/getty.png);
+    background-attachment: fixed;
+    min-height:400px;
+    width:100%;
+    background-size: cover;
+    opacity:0.9;
+    background-repeat: no-repeat;
+}
+
+.bioTitle{
+    padding-top: 150px;
+    color: white;
+    text-align:center;
+    font-size: 90px;
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    filter: drop-shadow(0 0 5px #000);
+    letter-spacing: 33px;
+    
+}
+
+.pBio{
+    font-size: 20px;
+    color: gray;
+}
+
+.backgroundimgFour{
+    background-image: url(img/wp1815842-conor-mcgregor-wallpapers.png);
+    background-attachment: fixed;
+    min-height:400px;
+    width:100%;
+    background-size: cover;
+    opacity:0.9;
+    background-repeat: no-repeat;
+}
+
+.statsTitle{
+    padding-top: 150px;
+    color: white;
+    text-align:center;
+    font-size: 70px;;
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    filter: drop-shadow(0 0 5px #000);
+    letter-spacing: 20px;
+}
+
+
+.footer{
+    padding-top: 30px;
+    height: 150px;
+    width:100%;
+    background-color: gray;
+    
+}
+
+.footText{
+    color: white;
+    font: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    opacity: .80;
+    padding-right: 20px;
+    font-size: 15px;
+}
+
+th{
+    font-size: 20px;
+}
+
+
+h4{
+    color:orange;
+    opacity:.5;
+    font-size: 17px;
+}
+
+tr{
+    color:black;
+}
+
+a{
+    color:#1DA1F2;
+}
+
+a:hover{
+    color: gray;
+    text-decoration: none;
+}
+
+.navbar-toggler{
+    border: none;
+   font-size: 30px;
+}
+
+
+
+
